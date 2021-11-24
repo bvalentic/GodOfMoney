@@ -23,15 +23,15 @@ const jobList = {
 }
 
 const eraList = {
-  NEOLITHIC = {}, //Stone Age
-  BRONZE_AGE = {},
-  IRON_AGE = {},
-  ANTIQUITY = {},
-  MEDIEVAL = {}, //Middle Ages
-  EARLY_MODERN = {}, //Renaissance
-  LATE_MODERN = {}, //Industrialization
-  DIGITAL = {}, //Contemporary
-  FUTURE = {} //??? 
+  NEOLITHIC: {}, //Stone Age
+  BRONZE_AGE: {},
+  IRON_AGE: {},
+  ANTIQUITY: {},
+  MEDIEVAL: {}, //Middle Ages
+  EARLY_MODERN: {}, //Renaissance
+  LATE_MODERN: {}, //Industrialization
+  DIGITAL: {}, //Contemporary
+  FUTURE: {} //??? 
 }
 
 class Building {
